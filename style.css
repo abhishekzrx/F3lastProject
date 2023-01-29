@@ -1,0 +1,18 @@
+.superheroCards{
+  display: flex;
+  justify-content: space-evenly;
+  padding:20px;
+  border: 2px solid orangered;
+  border-radius: 30px;
+  margin-top: 25px;
+} 
+.superheroCards img{
+    width:150px;
+    height:150px;
+    border-radius: 10px;
+}
+#result{
+display: flex;
+flex-direction: column;
+gap:10px;
+}
